@@ -1,0 +1,13 @@
+.header_img{
+     filter:
+        progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=45, Strength=5)
+        progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=135, Strength=5)
+        progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=225, Strength=5)
+        progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=315, Strength=5);
+        position: relative;
+        top: -10px;
+        left: -5px;
+        zoom: 1;
+     width:990px;
+
+}
